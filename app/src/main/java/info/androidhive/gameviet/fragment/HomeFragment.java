@@ -1,4 +1,4 @@
-package info.androidhive.navigationdrawer.fragment;
+package info.androidhive.gameviet.fragment;
 
 import android.content.Context;
 import android.net.Uri;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import info.androidhive.navigationdrawer.R;
+import info.androidhive.gameviet.R;
 
 /**
  * A simple {@link Fragment} subclass.

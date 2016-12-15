@@ -1,4 +1,4 @@
-package info.androidhive.navigationdrawer;
+package info.androidhive.gameviet;
 
 import org.junit.Test;
 

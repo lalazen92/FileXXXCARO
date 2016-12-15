@@ -1,4 +1,4 @@
-package info.androidhive.navigationdrawer.other;
+package info.androidhive.gameviet.other;
 
 import android.content.Context;
 import android.graphics.Bitmap;

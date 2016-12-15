@@ -1,4 +1,4 @@
-package info.androidhive.navigationdrawer.activity;
+package info.androidhive.gameviet.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +15,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.SubMenu;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -24,13 +23,13 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 
-import info.androidhive.navigationdrawer.R;
-import info.androidhive.navigationdrawer.fragment.HomeFragment;
-import info.androidhive.navigationdrawer.fragment.MoviesFragment;
-import info.androidhive.navigationdrawer.fragment.NotificationsFragment;
-import info.androidhive.navigationdrawer.fragment.PhotosFragment;
-import info.androidhive.navigationdrawer.fragment.SettingsFragment;
-import info.androidhive.navigationdrawer.other.CircleTransform;
+import info.androidhive.gameviet.R;
+import info.androidhive.gameviet.fragment.HomeFragment;
+import info.androidhive.gameviet.fragment.MoviesFragment;
+import info.androidhive.gameviet.fragment.NotificationsFragment;
+import info.androidhive.gameviet.fragment.PhotosFragment;
+import info.androidhive.gameviet.fragment.SettingsFragment;
+import info.androidhive.gameviet.other.CircleTransform;
 
 public class MainActivity extends AppCompatActivity {
 

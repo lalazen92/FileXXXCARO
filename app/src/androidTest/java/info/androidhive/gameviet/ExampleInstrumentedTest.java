@@ -1,4 +1,4 @@
-package info.androidhive.navigationdrawer;
+package info.androidhive.gameviet;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
